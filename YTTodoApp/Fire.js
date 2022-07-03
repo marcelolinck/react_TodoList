@@ -2,12 +2,12 @@ import firebase from 'firebase';
 import "@firebase/firestore";
 
 const firebaseConfig = {
-    apiKey: "2222222",
-  authDomain: "2222222",
-  projectId: "y222222",
-  storageBucket: "222222",
-  messagingSenderId: "2222222",
-  appId: "1:2222222222"
+    apiKey: "AIzaSyBwBcuspAWNXMJQMLxIyp4lMoPug0tDsqo",
+    authDomain: "yttodoapp-29fbe.firebaseapp.com",
+    projectId: "yttodoapp-29fbe",
+    storageBucket: "yttodoapp-29fbe.appspot.com",
+    messagingSenderId: "797395303207",
+    appId: "1:797395303207:web:d3a31fbc64a2c8f1438702"
 }
 class Fire {
     constructor(callback){
